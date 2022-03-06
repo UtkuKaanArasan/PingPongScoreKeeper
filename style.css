@@ -1,0 +1,24 @@
+.winner {
+    color: greenyellow;
+}
+
+.loser {
+    color: red;
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: bisque;
+}
+
+section
+{
+    padding: 10px;
+}
+*
+{
+    font-size: 2.5rem;
+}
